@@ -1,0 +1,1257 @@
+{
+    "mens":[
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "316",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.5",
+"sizes": "512",
+"title": "Zyka Restaurant",
+"votes": "400"
+        },
+        {
+            "description": "Mughlai, North Indian",
+"original_price": "416",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "50",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes": ["M","L","XL"],
+"title": "Classic",
+"votes": "200"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/16896242/9a006_512.jpg",
+
+ "payment_methods": {
+            "card": false,
+            "cash": false,
+            "upi": true,
+            "all": true
+        },
+"rating": "3.8",
+"sizes": ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "700"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/940632/1_512.jpg",
+"discounted_price": "450",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes":  ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "550"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "650",
+"image": "https://images.meesho.com/images/products/33884328/qow7z_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.2",
+"sizes": ["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "700",
+"image": "https://images.meesho.com/images/products/67181538/cn8tq_512.jpg",
+"discounted_price": "120",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.1",
+"sizes":  ["M","L","XL"],
+"title": "Mens cotton original_price",
+"votes": "800"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/59377590/tnjnx_512.jpg",
+"discounted_price": "140",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes": ["M","L","XL"],
+"title": "Black Royal price",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/71022916/tcu4d_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Stylish Strip Pattern",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/71379785/ctv0g_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.9",
+"sizes": ["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/72154709/zmdzd_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.5",
+"sizes":["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "100"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "316",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.5",
+"sizes": "512",
+"title": "Zyka Restaurant",
+"votes": "400"
+        },
+        {
+            "description": "Mughlai, North Indian",
+"original_price": "416",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "50",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes": ["M","L","XL"],
+"title": "Classic",
+"votes": "200"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/16896242/9a006_512.jpg",
+
+ "payment_methods": {
+            "card": false,
+            "cash": false,
+            "upi": true,
+            "all": true
+        },
+"rating": "3.8",
+"sizes": ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "700"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/940632/1_512.jpg",
+"discounted_price": "450",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes":  ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "550"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "650",
+"image": "https://images.meesho.com/images/products/33884328/qow7z_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.2",
+"sizes": ["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "700",
+"image": "https://images.meesho.com/images/products/67181538/cn8tq_512.jpg",
+"discounted_price": "120",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.1",
+"sizes":  ["M","L","XL"],
+"title": "Mens cotton original_price",
+"votes": "800"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/59377590/tnjnx_512.jpg",
+"discounted_price": "140",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes": ["M","L","XL"],
+"title": "Black Royal price",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/71022916/tcu4d_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Stylish Strip Pattern",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/71379785/ctv0g_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.9",
+"sizes": ["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/72154709/zmdzd_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.5",
+"sizes":["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "100"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "316",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.5",
+"sizes": "512",
+"title": "Zyka Restaurant",
+"votes": "400"
+        },
+        {
+            "description": "Mughlai, North Indian",
+"original_price": "416",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "50",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes": ["M","L","XL"],
+"title": "Classic",
+"votes": "200"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/16896242/9a006_512.jpg",
+
+ "payment_methods": {
+            "card": false,
+            "cash": false,
+            "upi": true,
+            "all": true
+        },
+"rating": "3.8",
+"sizes": ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "700"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/940632/1_512.jpg",
+"discounted_price": "450",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes":  ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "550"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "650",
+"image": "https://images.meesho.com/images/products/33884328/qow7z_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.2",
+"sizes": ["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "700",
+"image": "https://images.meesho.com/images/products/67181538/cn8tq_512.jpg",
+"discounted_price": "120",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.1",
+"sizes":  ["M","L","XL"],
+"title": "Mens cotton original_price",
+"votes": "800"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/59377590/tnjnx_512.jpg",
+"discounted_price": "140",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes": ["M","L","XL"],
+"title": "Black Royal price",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/71022916/tcu4d_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Stylish Strip Pattern",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/71379785/ctv0g_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.9",
+"sizes": ["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/72154709/zmdzd_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.5",
+"sizes":["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "100"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "316",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.5",
+"sizes": "512",
+"title": "Zyka Restaurant",
+"votes": "400"
+        },
+        {
+            "description": "Mughlai, North Indian",
+"original_price": "416",
+"image": "https://images.meesho.com/images/products/66279137/qtgpw_512.jpg",
+"discounted_price": "50",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes": ["M","L","XL"],
+"title": "Classic",
+"votes": "200"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/16896242/9a006_512.jpg",
+
+ "payment_methods": {
+            "card": false,
+            "cash": false,
+            "upi": true,
+            "all": true
+        },
+"rating": "3.8",
+"sizes": ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "700"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/940632/1_512.jpg",
+"discounted_price": "450",
+ "payment_methods": {
+            "card": true,
+            "cash": false,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes":  ["M","L","XL"],
+"title": "Trendy Men T472",
+"votes": "550"
+        }, {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "650",
+"image": "https://images.meesho.com/images/products/33884328/qow7z_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.2",
+"sizes": ["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "700",
+"image": "https://images.meesho.com/images/products/67181538/cn8tq_512.jpg",
+"discounted_price": "120",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.1",
+"sizes":  ["M","L","XL"],
+"title": "Mens cotton original_price",
+"votes": "800"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/59377590/tnjnx_512.jpg",
+"discounted_price": "140",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.5",
+"sizes": ["M","L","XL"],
+"title": "Black Royal price",
+"votes": "700"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/71022916/tcu4d_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Stylish Strip Pattern",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/71379785/ctv0g_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "2.9",
+"sizes": ["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/72154709/zmdzd_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.5",
+"sizes":["M","L","XL"],
+"title": "Trendy Moderice",
+"votes": "100"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "200",
+"image": "https://images.meesho.com/images/products/63508767/wukoz_512.jpg",
+"discounted_price": "250",
+ "payment_methods": {
+    "card": false,
+    "cash": false,
+    "upi": true,
+    "all": true
+},
+"rating": "3.6",
+"sizes": ["M","L","XL"],
+"title": "Trendy Fashil_price"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "500",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "4.8",
+"sizes": ["M","L","XL"],
+"title": "Classic Glam_price",
+"votes": "300"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "400",
+"image": "https://images.meesho.com/images/products/22366620/c3138_512.jpg",
+"discounted_price": "150",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "3.5",
+"sizes":["M","L","XL"],
+"title": "Mens Tshirt",
+"votes": "500"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        },
+        {
+            "description": "Best quality Cotton from assam",
+"original_price": "300",
+"image": "https://images.meesho.com/images/products/15192112/85caa_512.jpg",
+"discounted_price": "350",
+ "payment_methods": {
+            "card": false,
+            "cash": true,
+            "upi": false,
+            "all": true
+        },
+"rating": "1.6",
+"sizes": ["M","L","XL"],
+"title": "Classic Solid",
+"votes": "400"
+        }
+        
+    ]
+}
