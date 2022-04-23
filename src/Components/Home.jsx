@@ -22,18 +22,9 @@ export const Home = () => {
   const initialState = {
     description: "",
     title: "",
-    payment_methods: {
-      card: false,
-      cash: false,
-      upi: false,
-      all: true,
-    },
-    votes: "",
-    reviews: "",
-    image: "",
+       image: "",
     original_price: "",
     discounted_price: "",
-    rating: "all",
     sizes : ""
   };
 
@@ -97,7 +88,7 @@ export const Home = () => {
       .then((data) => data.json())
       .then((data) => {
         setFilterState(data);
-        console.log(data);
+        //console.log(data);
       });
   }
 
@@ -146,43 +137,32 @@ export const Home = () => {
             description,
             title,
             payment_methods,
-            votes,
-            reviews,
             image,
-            original_price,
-            rating,
             discounted_price,
-            sizes
+          
           }) => {
             const getPaymentmethod = getCorrectPaymentMethod(payment_methods);
 
             return (
-              <div className="all">
+            
                 <div className="flexx">
                   <div className="shadoww">
                     <div className="Rest">
                       <div>
                         {" "}
-                        <img src={image} alt=""  width="100%" />
+                        <img src={image} alt="" />
                       </div>
                       <div>
                         <h5 className="name">{description}</h5>
                         <h5 className="add">{title}</h5>
-                        <h5 className="add">Cost ₹{original_price} for one</h5>
                         <div className="list">
                           <h5>Min ₹{discounted_price} </h5>
                          
                           <li className="upto">Upto 10 discounted_price</li>
                         </div>
                        
-                      </div>
-                      <div>
-                      <h5>Accept {getPaymentmethod} payment only</h5>
-                        <h6 className="rating">{rating}</h6>
-                        <h6 className="add">{votes} votes</h6>
-                        <h6 className="add"> {reviews} reviews</h6>
-                        <h6 className="add"> {sizes} sizes</h6>
-                      </div>
+                      
+                     
                     </div>
                    
                   </div>
@@ -192,7 +172,8 @@ export const Home = () => {
           }
         )}
       </div>
-     
+      <div className="clear"></div>
     </div>
+   
   );
 };

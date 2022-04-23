@@ -9,12 +9,18 @@ function App() {
 
   return (
     <div className="App">
-   
-   < ResponsiveAppBar/>
-    < PrimarySearchAppBar />
-    <Home />
-    < Footer/>
 
+   < ResponsiveAppBar />
+    < PrimarySearchAppBar />
+     <Home />
+     
+    < Footer/>
+   
+   
+  
+  
+ 
+ 
 
     
      

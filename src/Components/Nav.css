@@ -1,15 +1,356 @@
 .top {
+   border: 0.1px solid black;
     background-color: #e40046;
-    color: black;
+    color: white;
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
+  .da {
+      background-color: white
+  }
   .logo img {
-      width: 30%;
-      height: 30%
+      width: 60%;
+      height: 60%
     
       
   }
+  .container{
 
+    /* background-color:#E40046; */
+    height: 75px;
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+    padding: 15px 30px;
+    padding-top: 15px;
+}
+.Signup{
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+    background: transparent;
+    padding: 10px;
+    color: white;
+    
+}
+.logIn{
+    padding: 10px 5px;
+    cursor: pointer;
+}
+.Signup:hover{
+    background:black;
+    
+}
+.Avatar{
+    background:#CD003F !important;
+    font-size: 12px!important;
+    
+}
+.Avatar:hover{
+    background:black !important
+}
+.btn{
+    width: 100%;
+    border: 0;
+    background:tomato;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+}
+.UpNav{
+    display: flex;
+    justify-content: space-between;
+    background:#C6003D;
+    font-size: 12px
+}
+
+@media screen and (max-width:900px){
+    .container{
+        display: none;
+    }
+    .UpNav{
+        display: none;
+    }
+    .TopNamv{
+        display: none !important;
+    }
+
+     
+}
+.acco{
+    color: white;
+}
   
+  /************ */
+
+  .chimp > img{
+    width: 100px;
+}
+*{
+    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+    
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+        background-color: #ffe01b;
+        padding-bottom: 5%;
+        padding-top: 5%;
+    
+}
+.grid >div> img{
+    width: 70%;
+    margin-top: 50px;
+}
+.grid1{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.grid1 > h1{
+    font-size: 3.375rem;
+    letter-spacing: -.03125rem;
+    
+    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+}
+.grid1 > h3{
+    color: #241c15;
+    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 1.4;
+    letter-spacing: 0;
+}
+.why > h1{
+    color: #403b3b;
+    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 3em;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center!important;
+    margin-top: 3em;
+}
+.why > p{
+    margin-bottom: 3em;
+    text-align: center!important;
+    margin-left: 33%;
+    margin-right: 33%;
+    font-size: 1em;
+    letter-spacing: 0;
+    color: #403b3b;
+    font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.three{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3em;
+    margin-bottom: 5rem;
+   
+}
+.three > div{
+    margin-left: 5%;
+    width: 25%;
+}
+.million > h1{
+    color: #241c15;
+    font-family: Means Web,Georgia,Times,Times New Roman,serif;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 1;
+    margin-left: 20%;
+   margin-right:20% ;
+  
+    text-align: center !important;
+}
+
+.grid4{
+    display: flex;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+.grid4 > img{
+    width: 15%;
+    margin: 5%;
+    
+}
+.get{
+    margin-left: 35%;
+    color: #241c15;
+    font-family: Means Web,Georgia,Times,Times New Roman,serif;
+    font-size: 20px;
+    
+    line-height: 1;
+    margin-top: 10%;
+}
+.pics{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.pics > div{
+    width: 20%;
+    margin: 5%;
+}
+.search > h1{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.search > input{
+    width: 50%;
+    height: 70px;
+    margin-left: 20%;
+}
+.top {
+    background-color: #e40046;
+  }
+  body{
+    background-color: rgb(245, 244, 244);
+  }
+  .flexx{
+    margin-right: 100px;
+   float: left;
+  }
+  
+  .form-control-sm{
+    width: 200px;
+    margin-right: 20px;
+  }
+  .mb-2{
+  display: inline-block;
+  justify-content:space-around;
+  margin: 5px;
+  
+  
+  }.stars{
+    width:40%;
+    display: flex;
+    justify-content:space-around;
+    margin: auto;
+   
+  }
+  .stars button{
+   
+     margin: 10px;
+      padding: 5px;
+       width: 70px;
+      border-radius: 5px;
+       font-weight: bold;
+  
+  }
+  .payment{
+    
+    width:40%;
+    display: flex;
+    justify-content:space-around;
+    margin: auto;
+  
+  }.sortrating{
+    text-align: center;
+  }
+  .payment button{
+  margin: 10px;
+  padding: 5px;
+  width: 100px;
+  border-radius: 5px;
+  font-weight: bold;
+  }.sort{
+   margin-left: 46%;
+   
+  }.sort button{
+  
+    margin: 2px;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 100px;
+  }
+  
+  .flexx {
+   margin-left:50px;
+  }
+  .shadoww{
+  
+    width: 250px;
+    height: 320px;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0px 0px 8px rgb(0, 0, 0);
+    margin: 20px;
+  }
+  .main{
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+  img{
+    width: 100px;
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 25px;
+  }.rating{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    width: 40px;
+    padding: 5px;
+    border-radius: 5px;
+  }.mainn{
+    /* border: 1px solid black; */
+    margin-left: -5px;
+    display: flex;
+    justify-content: right;
+    width: 500px;
+    padding: 4px;
+    background-color: rgb(248, 220, 220);
+    cursor: pointer;
+   
+  }.name{
+    color: rgb(141, 7, 7);
+    font-weight: bold;
+    margin-left:20px;
+   
+  }.list{
+    display: flex;
+    justify-content: space-between;
+    
+  }.add{
+    color: grey;
+    margin-left:20px;
+  }
+  
+  .isActive {
+    background-color: teal;
+    border: 2px solid black;
+  }.isnotactive{
+    background-color: rgb(217, 235, 235);
+  }form legend{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 30px;
+    color: rgb(141, 7, 7);
+  }form{
+    margin: 30px;
+  }form label{
+    font-weight: 500;
+  }form input{
+   border-width: 5px;
+  }
+  .Rest{
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 20px;
+    
+  }
+  .clear {
+    clear: both;
+    margin-bottom: 50%
+  }
   

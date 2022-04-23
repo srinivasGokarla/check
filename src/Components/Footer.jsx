@@ -8,13 +8,15 @@ export const Footer = () => {
         <div className={styles.insideflex}>
           <div className={styles.icons}>
             <img alt="" src={require(`../assets/images/lock.png`)} height="50px" />
-          </div>
-          <p className={styles.insideflexfonthead}>100% SECURE PAYMENTS</p>
-          <p className={styles.insideflexfontbody}>
+            <p className={styles.insideflexfonthead}>100% SECURE PAYMENTS</p>
+            <p className={styles.insideflexfontbody}>
             Moving your card details to a much more
             <br />
             secured place
           </p>
+          </div>
+  
+          
         </div>
         <div className={styles.insideflex}>
           <div className={styles.icons}>
@@ -22,32 +24,38 @@ export const Footer = () => {
               src={require(`../assets/images/secure.png`)}
               height="50px"
             />
-          </div>
-          <p className={styles.insideflexfonthead}>TRUSTPAY</p>
-          <p className={styles.insideflexfontbody}>
+                    <p className={styles.insideflexfontbody}>
+                    <p className={styles.insideflexfonthead}>TRUSTPAY</p>
             100% Payment Protection. Easy <br />
             Return Policy
           </p>
+          </div>
+  
+  
         </div>
         <div className={styles.insideflex}>
           <div className={styles.icons}>
             <img alt="" src={require(`../assets/images/help.png`)} height="50px" />
-          </div>
-          <p className={styles.insideflexfonthead}>HELP CENTER</p>
-          <p className={styles.insideflexfontbody}>
+            <p className={styles.insideflexfonthead}>HELP CENTER</p>
+            <p className={styles.insideflexfontbody}>
             Got a question? Look no further. <br />
             Browse or submit your query here.
           </p>
+          </div>
+         
+         
         </div>
         <div className={styles.insideflex}>
           <div className={styles.icons}>
             <img alt="" src={require(`../assets/images/shop.png`)} height="50px" />
-          </div>
-          <p className={styles.insideflexfonthead}>SHOP ON THE GO</p>
-          <p className={styles.insideflexfontbody}>
+            <p className={styles.insideflexfonthead}>SHOP ON THE GO</p>
+            <p className={styles.insideflexfontbody}>
             Download the app and get exciting <br />
             app only offers at your fingertips
           </p>
+          </div>
+         
+         
         </div>
       </div>
 
@@ -112,8 +120,9 @@ export const Footer = () => {
             />
           </div>
         </div>
-        <div>
-          <p>CONNECT</p>
+       
+        <div className={styles.conn}>
+        <p >CONNECT</p>
           <div className={styles.connecticons}>
             <div>
               <img alt=""
